@@ -1,8 +1,8 @@
 file=leaderboard.html
-sha256=9a532be3ff59b33b2775870f8ba7f4c6d1fd3cc7c58483117256ebf92d4cc412
-bytes=19838
+sha256=86d8df987a06f757591d0be6be1af00dc6d66ba91542b4a2216940ee7f6ebb9a
+bytes=20044
 test_mode=false
 prod_mint_count=0
 prod_treasury_count=0
 marker=
-generated=2026-10-18T03:04:24Z
+generated=2026-10-21T03:56:03Z
